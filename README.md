@@ -1,2 +1,2 @@
-# curso-fullstack-innovaccion
+# curso-fullstack-inovaccion
 Curso fullstack.
